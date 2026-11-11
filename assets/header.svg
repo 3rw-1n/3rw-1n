@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Berwin — Python and AI tools</title>
+<desc id="desc">Building small, readable AI tools. Learning in public, one project at a time.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#18283e"/></linearGradient><linearGradient id="line"><stop stop-color="#7ee7b7"/><stop offset="1" stop-color="#79b8ff"/></linearGradient></defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<g stroke="#253347" opacity=".6"><path d="M760 25v210m90-210v210m90-210v210m90-210v210m90-210v210M730 65h430M730 130h430M730 195h430"/></g>
+<path d="m745 195 62-22 62 8 62-63 62 21 62-78 62 19" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#7ee7b7"><circle cx="807" cy="173" r="5"/><circle cx="931" cy="118" r="5"/><circle cx="1055" cy="61" r="5"/></g>
+<text x="48" y="58" fill="#7ee7b7" font-family="monospace" font-size="15">3rw-1n / BUILDING IN PUBLIC</text>
+<text x="45" y="127" fill="#edf4ff" font-family="Arial,sans-serif" font-size="53" font-weight="700">Hi, I'm Berwin.</text>
+<text x="49" y="174" fill="#bdd0e7" font-family="Arial,sans-serif" font-size="24">Building small, readable AI tools.</text>
+<text x="49" y="218" fill="#8da4c0" font-family="monospace" font-size="15">Python / LLM agents / Tool calling</text>
+</svg>
